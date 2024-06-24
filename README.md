@@ -7,10 +7,6 @@
 
 ![ToDoList](https://socialify.git.ci/tusharnankani/ToDoList/image?description=1&forks=1&issues=1&language=1&owner=1&pattern=Brick%20Wall&pulls=1&stargazers=1&theme=Dark)
 
-#### This web page is hosted [here!](https://tusharjustdoit.netlify.app/)
-
-- View the local installation in the [CONTRUBUTING.md](https://github.com/tusharnankani/ToDoList/blob/master/CONTRIBUTING.md).
-
 ### *Features*:
 
 * User-friendly
@@ -57,7 +53,4 @@ Check [Issues](https://github.com/tusharnankani/ToDoList/issues) for contributin
 
 ![Screenshot (774)](https://user-images.githubusercontent.com/61280281/99399723-0b3fa980-290c-11eb-8728-03d974be548d.png)
 
-# *Author*
 
-* Tushar Nankani (tusharnankani, tusharnankani3@gmail.com)
-  - [LinkedIn](https://www.linkedin.com/in/tusharnankani)
