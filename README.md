@@ -1,8 +1,7 @@
-
+![GitHub Cards Preview](https://github.com/omargeo/ToDoList/blob/main/Art/Cover.png)
 # To-Do-List
 
 ## A Simple To-Do Website!
-
 
 
 ### *Features*:
