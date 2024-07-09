@@ -4,7 +4,7 @@
 ## A Simple To-Do Website!
 Welcome to the repository for a simple ToDo List website! You can access the website [here](https://omargeo.github.io/ToDoList/).
  
-### *Features*:
+### *Features*: 
 
 * User-friendly
 * Local Storage Supported
